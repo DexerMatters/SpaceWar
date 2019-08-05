@@ -1,0 +1,1009 @@
+﻿Log file open, 08/07/18 13:28:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cell
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.130905
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.226s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: I:/net/UE_4.20/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.574s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.07-05.28.46:364][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-05.28.46:364][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.07-05.28.46:396][  0]LogHAL: Display: Platform has ~ 8 GB [8547946496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.07-05.28.46:396][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.07-05.28.46:396][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.07-05.28.46:397][  0]LogInit: Computer: PC-20180403OEYG
+[2018.08.07-05.28.46:397][  0]LogInit: User: Administrator
+[2018.08.07-05.28.46:397][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.07-05.28.46:397][  0]LogInit: High frequency timer resolution =3.820585 MHz
+[2018.08.07-05.28.46:397][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.08.07-05.28.46:397][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.07-05.28.46:397][  0]LogMemory: Process Physical Memory: 100.84 MB used, 100.84 MB peak
+[2018.08.07-05.28.46:397][  0]LogMemory: Process Virtual Memory: 89.73 MB used, 89.73 MB peak
+[2018.08.07-05.28.46:397][  0]LogMemory: Physical Memory: 2917.94 MB used,  5234.02 MB free, 8151.96 MB total
+[2018.08.07-05.28.46:397][  0]LogMemory: Virtual Memory: 464.47 MB used,  5234.02 MB free, 8388608.00 MB total
+[2018.08.07-05.28.46:438][  0]LogInit: Using OS detected language (zh-CN).
+[2018.08.07-05.28.46:438][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.08.07-05.28.46:665][  0]LogStreaming: Display: Took  0.227s to InitEngineTextLocalization.
+[2018.08.07-05.28.46:665][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.08.07-05.28.46:665][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.08.07-05.28.46:666][  0]LogInit: Setting process to DPI aware
+[2018.08.07-05.28.46:670][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using IMM (2345王牌拼音输入).
+[2018.08.07-05.28.46:688][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.07-05.28.46:688][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.07-05.28.46:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-05.28.46:917][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.07-05.28.46:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.08.07-05.28.46:942][  0]LogD3D11RHI:       4008/0/3819 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.07-05.28.46:942][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.07-05.28.46:946][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.07-05.28.46:946][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.07-05.28.46:946][  0]LogWindows: EnumDisplayDevices:
+[2018.08.07-05.28.46:946][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2018.08.07-05.28.46:947][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.07-05.28.46:947][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.07-05.28.46:947][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.07-05.28.46:948][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.08.07-05.28.46:948][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.08.07-05.28.46:948][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.08.07-05.28.46:948][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.07-05.28.46:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.08.07-05.28.46:948][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2018.08.07-05.28.46:948][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2018.08.07-05.28.46:948][  0]LogRHI: Texture pool is 2806 MB (70% of 4008 MB)
+[2018.08.07-05.28.46:962][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.07-05.28.46:977][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.07-05.28.46:980][  0]LogShaderCompilers: Guid format shader working directory is 41 characters bigger than the processId version (E:/eupro/Cell/Intermediate/Shaders/WorkingDirectory/3632/).
+[2018.08.07-05.28.46:980][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/0121E80040E183F17850438D9538BCBE/'.
+[2018.08.07-05.28.47:559][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.07-05.28.47:573][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.07-05.28.47:586][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.07-05.28.47:599][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.07-05.28.47:614][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.07-05.28.47:627][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.07-05.28.47:639][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.07-05.28.47:653][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.07-05.28.47:658][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:742][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-05.28.47:745][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.07-05.28.47:801][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-05.28.47:801][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-05.28.47:823][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-05.28.47:823][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-05.28.47:834][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.07-05.28.47:845][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.07-05.28.47:856][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.07-05.28.47:868][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.07-05.28.47:877][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.07-05.28.47:877][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.07-05.28.47:949][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.07-05.28.47:949][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.07-05.28.47:949][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.07-05.28.49:129][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.07-05.28.49:183][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-05.28.49:183][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.07-05.28.49:183][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/eupro/Cell/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.07-05.28.49:184][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.07-05.28.49:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/eupro/Cell/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.07-05.28.49:184][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.07-05.28.49:195][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.07-05.28.49:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.07-05.28.49:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.07-05.28.49:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.07-05.28.49:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.07-05.28.49:224][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.07-05.28.49:224][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-05.28.49:296][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2018.08.07-05.28.49:607][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-05.28.49:751][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.07-05.28.49:755][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.07-05.28.49:755][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.07-05.28.49:755][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.07-05.28.49:755][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.07-05.28.49:774][  0]LogNetVersion: Cell 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1256535068)
+[2018.08.07-05.28.50:672][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 4 prioritized culture(s) in 0.394337 seconds
+[2018.08.07-05.28.50:678][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.07-05.28.50:678][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.07-05.28.50:678][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.07-05.28.51:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.07-05.28.51:496][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.07-05.28.51:660][  0]SourceControl: 源码控制已禁用
+[2018.08.07-05.28.51:660][  0]SourceControl: 源码控制已禁用
+[2018.08.07-05.28.51:662][  0]SourceControl: 源码控制已禁用
+[2018.08.07-05.28.51:663][  0]SourceControl: 源码控制已禁用
+[2018.08.07-05.28.51:870][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.07-05.28.51:998][  0]LogOcInput: OculusInput pre-init called
+[2018.08.07-05.28.52:058][  0]LogEngine: Initializing Engine...
+[2018.08.07-05.28.52:059][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-05.28.52:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-05.28.52:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-05.28.52:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-05.28.52:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-05.28.52:294][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.07-05.28.52:304][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.07-05.28.52:324][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.28.52:380][  0]LogInit: FAudioDevice initialized.
+[2018.08.07-05.28.52:381][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.07-05.28.52:459][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-05.28.52:469][  0]LogInit: Texture streaming: Enabled
+[2018.08.07-05.28.52:494][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.07-05.28.52:527][  0]LogInit: Transaction tracking system initialized
+[2018.08.07-05.28.52:546][  0]BlueprintLog: New page: 编辑器加载
+[2018.08.07-05.28.52:619][  0]LocalizationService: 本地化服务已被禁用
+[2018.08.07-05.28.52:676][  0]LogLinker: Warning: 无法寻找到文件'/Game/FlyingBP/FlyingOverview'
+[2018.08.07-05.28.52:676][  0]LogLinker: Warning: 无法寻找到文件'/Game/FlyingBP/FlyingOverview'
+[2018.08.07-05.28.52:676][  0]LogUObjectGlobals: Warning: 寻找对象'Class /Game/FlyingBP/FlyingOverview.FlyingOverview_C'失败
+[2018.08.07-05.28.52:967][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.07-05.28.52:967][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.07-05.28.52:967][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.07-05.28.52:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-05.28.52:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-05.28.52:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-05.28.52:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-05.28.53:089][  0]LogFileCache: Scanning file cache for directory 'E:/eupro/Cell/Content/' took 0.01s
+[2018.08.07-05.28.53:089][  0]SourceControl: 源码控制已禁用
+[2018.08.07-05.28.53:089][  0]Cmd: MAP LOAD FILE="E:/eupro/Cell/Content/Blueprints/LevelBP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-05.28.53:089][  0]LightingResults: New page: 光照构建
+[2018.08.07-05.28.53:092][  0]MapCheck: New page: 地图检测
+[2018.08.07-05.28.53:092][  0]LightingResults: New page: 光照构建
+[2018.08.07-05.28.53:503][  0]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.28.53:529][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-05.28.53:548][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-05.28.53:648][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时99.325毫秒完成。
+[2018.08.07-05.28.53:648][  0]LogFileHelpers: Loading map 'LevelBP' took 0.559
+[2018.08.07-05.28.54:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.28.54:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.28.54:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.28.54:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.28.54:178][  0]LogCollectionManager: Loaded 0 collections in 0.029375 seconds
+[2018.08.07-05.28.54:331][  0]LogFileCache: Scanning file cache for directory 'E:/eupro/Cell/Saved/Collections/' took 0.01s
+[2018.08.07-05.28.54:331][  0]LogFileCache: Scanning file cache for directory 'E:/eupro/Cell/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.08.07-05.28.54:331][  0]LogFileCache: Scanning file cache for directory 'E:/eupro/Cell/Content/Collections/' took 0.01s
+[2018.08.07-05.28.54:331][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.07-05.28.54:387][  0]LogContentBrowser: Native class hierarchy populated in 0.0445 seconds. Added 2572 classes and 603 folders.
+[2018.08.07-05.28.54:441][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.07-05.28.55:131][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.07-05.28.55:197][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.07-05.28.55:811][  0]LogSlate: Took 0.000872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-05.28.55:819][  0]LogSlate: Took 0.004672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.07-05.28.55:820][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.07-05.28.55:895][  0]LogSlate: Took 0.012976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.07-05.28.56:305][  0]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-05.28.56:494][  0]LogSlate: Took 0.012147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-05.28.56:684][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.07-05.28.56:684][  0]LogLoad: (Engine Initialization) Total time: 16.88 seconds
+[2018.08.07-05.28.56:684][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.07-05.28.56:734][  0]LogAssetRegistry: Asset discovery search completed in 7.4630 seconds
+[2018.08.07-05.28.56:746][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.07-05.28.56:747][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.08.07-05.28.56:747][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.07-05.28.57:939][  4]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-05.28.57:944][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/pawwn.pawwn
+[2018.08.07-05.28.58:922][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.07-05.29.00:549][  4]LogSlate: Took 0.015219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.07-05.29.01:275][  5]LogSlate: Took 0.015663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.07-05.29.02:619][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.29.06:088][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.29.06:162][556]LogTemp: Repeating last play command: 独立窗口运行
+[2018.08.07-05.29.07:602][722]LogTemp: Repeating last play command: 独立窗口运行
+[2018.08.07-05.30.02:763][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.30.02:763][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-05.30.02:816][607]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:30:02)
+[2018.08.07-05.30.02:816][607]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.30.02:837][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021406s)
+[2018.08.07-05.30.02:848][607]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.30.02:848][607]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.08.07-05.30.02:848][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.031930s)
+[2018.08.07-05.30.02:881][607]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.30.02:897][607]LogInit: FAudioDevice initialized.
+[2018.08.07-05.30.02:952][607]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.30.02:954][607]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.30.02
+[2018.08.07-05.30.02:955][607]LogWorld: Bringing up level for play took: 0.000860
+[2018.08.07-05.30.02:970][607]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.08.07-05.30.02:980][607]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.116
+[2018.08.07-05.30.02:980][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.30.27:003][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.30.27:003][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.30.27:035][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.30.27:035][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.30.27:062][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.30.27:108][489]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.08.07-05.30.52:837][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.32.17:875][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.07-05.32.18:687][765]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.07-05.32.18:746][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.32.19:353][835]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.07-05.32.24:427][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.32.24:493][423]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.32.24:507][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.24:507][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-05.32.24:507][423]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:32:24)
+[2018.08.07-05.32.24:507][423]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.32.24:512][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005243s)
+[2018.08.07-05.32.24:513][423]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.32.24:513][423]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2018.08.07-05.32.24:513][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005909s)
+[2018.08.07-05.32.24:543][423]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.32.24:555][423]LogInit: FAudioDevice initialized.
+[2018.08.07-05.32.24:591][423]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.32.24:593][423]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.32.24
+[2018.08.07-05.32.24:594][423]LogWorld: Bringing up level for play took: 0.001386
+[2018.08.07-05.32.24:608][423]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间-0.265
+[2018.08.07-05.32.24:609][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.46:822][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.46:822][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.32.46:849][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.32.46:850][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.46:876][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.32.46:928][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.08.07-05.32.53:394][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.32.57:858][322]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.32.57:871][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.57:871][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-05.32.57:872][322]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:32:57)
+[2018.08.07-05.32.57:872][322]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.32.57:878][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005970s)
+[2018.08.07-05.32.57:878][322]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.32.57:878][322]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.08.07-05.32.57:878][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006663s)
+[2018.08.07-05.32.57:910][322]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.32.57:923][322]LogInit: FAudioDevice initialized.
+[2018.08.07-05.32.57:955][322]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.32.57:956][322]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.32.57
+[2018.08.07-05.32.57:956][322]LogWorld: Bringing up level for play took: 0.000565
+[2018.08.07-05.32.57:967][322]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间1.091
+[2018.08.07-05.32.57:967][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.59:257][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.59:257][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.32.59:288][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.32.59:288][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.32.59:315][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.32.59:357][453]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.08.07-05.33.02:028][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.33.12:677][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.33.12:735][866]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.33.12:748][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.33.12:748][866]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.33.12:754][866]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.33.12:976][866]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2018.08.07-05.33.12:976][866]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:33:12)
+[2018.08.07-05.33.12:976][866]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.33.12:982][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005644s)
+[2018.08.07-05.33.12:982][866]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.33.12:983][866]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.08.07-05.33.12:983][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006436s)
+[2018.08.07-05.33.13:015][866]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.33.13:025][866]LogInit: FAudioDevice initialized.
+[2018.08.07-05.33.13:052][866]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.33.13:052][866]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.33.13
+[2018.08.07-05.33.13:053][866]LogWorld: Bringing up level for play took: 0.000544
+[2018.08.07-05.33.13:064][866]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.187
+[2018.08.07-05.33.13:064][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.33.14:875][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.33.14:875][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.33.14:904][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.33.14:904][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.33.14:931][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.33.14:974][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.08.07-05.33.16:370][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.33.27:177][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.33.27:659][406]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn58322BF24ABD9E28868DD5A66531BDCD.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.33.28:121][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.33.28:908][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.33.28:983][553]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.33.28:996][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.33.28:996][553]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.33.29:003][553]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.33.29:122][553]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2018.08.07-05.33.29:123][553]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:33:29)
+[2018.08.07-05.33.29:123][553]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.33.29:129][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006177s)
+[2018.08.07-05.33.29:129][553]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.33.29:129][553]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.08.07-05.33.29:129][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006826s)
+[2018.08.07-05.33.29:162][553]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.33.29:173][553]LogInit: FAudioDevice initialized.
+[2018.08.07-05.33.29:200][553]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.33.29:200][553]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.33.29
+[2018.08.07-05.33.29:201][553]LogWorld: Bringing up level for play took: 0.000554
+[2018.08.07-05.33.29:212][553]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.334
+[2018.08.07-05.33.29:212][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.34.05:274][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.34.05:274][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.34.05:301][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.34.05:302][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.34.05:328][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.34.05:373][879]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.08.07-05.34.06:712][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.36.39:374][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.36.39:406][928]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn94A52B1E41835C2D726D91B96FBC7EC6.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.36.40:775][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.36.41:659][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.36.41:717][193]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.36.41:729][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.36.41:729][193]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.36.41:736][193]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.36.41:744][193]LogBlueprint: Error: [Compiler pawwn] This blueprint (self) is not a SceneComponent, therefore ' 目标 ' must have a connection.
+[2018.08.07-05.36.41:745][193]LogBlueprint: Warning: [Compiler pawwn] [0481.91]编译 pawwn 失败。1 项重大问题；0 个警告[9 毫秒内]（/Game/Blueprints/pawwn.pawwn）
+[2018.08.07-05.36.41:928][193]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2018.08.07-05.36.41:928][193]BlueprintLog: 蓝图 pawwn编译失败
+[2018.08.07-05.36.43:381][193]LogSlate: Window '信息' being destroyed
+[2018.08.07-05.36.44:972][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.37.02:056][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.37.02:086][282]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn3F92CF93477697A499B00DB8ED9DB400.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.37.05:005][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.37.36:188][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.37.36:218][180]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwnD7FF705B44899BD05CEC4387698D599E.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.37.37:225][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.37.39:674][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.38.58:088][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.07-05.38.58:424][677]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.07-05.39.11:324][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.39.11:482][751]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.39.11:496][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.39.11:496][751]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.39.11:504][751]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.39.11:652][751]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2018.08.07-05.39.11:652][751]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:39:11)
+[2018.08.07-05.39.11:652][751]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.39.11:659][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006993s)
+[2018.08.07-05.39.11:660][751]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.39.11:660][751]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.08.07-05.39.11:660][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.008055s)
+[2018.08.07-05.39.11:702][751]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.39.11:715][751]LogInit: FAudioDevice initialized.
+[2018.08.07-05.39.11:747][751]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.39.11:749][751]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.39.11
+[2018.08.07-05.39.11:749][751]LogWorld: Bringing up level for play took: 0.000769
+[2018.08.07-05.39.11:761][751]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.859
+[2018.08.07-05.39.11:761][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.39.29:213][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.39.29:213][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.39.29:243][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.39.29:243][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.39.29:270][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.39.29:316][901]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.08.07-05.40.41:921][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.42.30:849][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/LevelBP' took 0.035
+[2018.08.07-05.42.30:872][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/pawwn] ([1] browsable assets)...
+[2018.08.07-05.42.30:900][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/pawwn.pawwn]
+[2018.08.07-05.42.30:900][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/pawwn]
+[2018.08.07-05.42.30:900][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/pawwn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.08.07-05.42.30:942][920]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn_Auto14E8BF9864DC222F3F84E7AA2587EE4B8.tmp' to 'E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/pawwn_Auto1.uasset'
+[2018.08.07-05.42.30:964][920]LogFileHelpers: Auto-saving content packages took 0.115
+[2018.08.07-05.42.46:979][230]LogSlate: Took 0.009567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.07-05.45.52:689][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.45.52:721][338]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn2EE9949A4B10866AD37E9DA7803E1B39.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.45.54:340][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.46.08:022][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.46.12:234][290]LogSlate: Window '选择父类' being destroyed
+[2018.08.07-05.46.21:723][406]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playercon.playercon
+[2018.08.07-05.46.22:102][407]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.47.57:528][832]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.08.07-05.49.40:550][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.53.24:799][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/LevelBP' took 0.043
+[2018.08.07-05.53.24:802][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/pawwn] ([1] browsable assets)...
+[2018.08.07-05.53.24:829][383]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/pawwn.pawwn]
+[2018.08.07-05.53.24:829][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/pawwn]
+[2018.08.07-05.53.24:829][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/pawwn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.08.07-05.53.24:876][383]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn_Auto268AC592C42FFC8E5B743F8BC9F017C3C.tmp' to 'E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/pawwn_Auto2.uasset'
+[2018.08.07-05.53.24:887][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/playercon] ([1] browsable assets)...
+[2018.08.07-05.53.24:887][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/playercon]
+[2018.08.07-05.53.24:887][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/playercon" FILE="E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/playercon_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.08.07-05.53.24:895][383]LogSavePackage: Moving 'E:/eupro/Cell/Saved/playercon_Auto2DD8B3D044FCA66A8B864B785AF102C4F.tmp' to 'E:/eupro/Cell/Saved/Autosaves/Game/Blueprints/playercon_Auto2.uasset'
+[2018.08.07-05.53.24:899][383]LogFileHelpers: Auto-saving content packages took 0.098
+[2018.08.07-05.56.10:334][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.56.10:365][547]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn7517834B497CA36D866FAB94543241A9.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.56.13:389][901]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.56.13:402][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.56.13:402][901]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.56.13:408][901]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.56.13:541][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2018.08.07-05.56.13:541][901]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:56:13)
+[2018.08.07-05.56.13:541][901]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.56.13:546][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004848s)
+[2018.08.07-05.56.13:546][901]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.56.13:547][901]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.08.07-05.56.13:547][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005486s)
+[2018.08.07-05.56.13:579][901]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.56.13:592][901]LogInit: FAudioDevice initialized.
+[2018.08.07-05.56.13:622][901]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.56.13:622][901]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.56.13
+[2018.08.07-05.56.13:623][901]LogWorld: Bringing up level for play took: 0.000537
+[2018.08.07-05.56.13:634][901]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.659
+[2018.08.07-05.56.13:634][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.56.15:790][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.56.15:791][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.56.15:820][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.56.15:820][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.56.15:849][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.56.15:897][146]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.08.07-05.56.17:887][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.56.58:927][150]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/fgamemode.fgamemode
+[2018.08.07-05.57.02:093][487]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-05.57.31:935][ 22]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.57.31:956][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.57.31:956][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-05.57.31:956][ 22]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:57:31)
+[2018.08.07-05.57.31:956][ 22]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.57.31:964][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007499s)
+[2018.08.07-05.57.31:964][ 22]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.57.31:964][ 22]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.08.07-05.57.31:964][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.008191s)
+[2018.08.07-05.57.31:994][ 22]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.57.32:004][ 22]LogInit: FAudioDevice initialized.
+[2018.08.07-05.57.32:032][ 22]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.57.32:033][ 22]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.57.32
+[2018.08.07-05.57.32:033][ 22]LogWorld: Bringing up level for play took: 0.000595
+[2018.08.07-05.57.32:044][ 22]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间1.063
+[2018.08.07-05.57.32:044][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.57.34:290][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.57.34:290][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.57.34:322][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.57.34:322][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.57.34:350][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.57.34:396][293]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.08.07-05.57.35:041][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.57.35:178][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playercon.playercon
+[2018.08.07-05.57.35:382][385]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.07-05.57.37:892][680]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.07-05.57.37:895][680]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.07-05.57.40:303][958]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/playercon.playercon
+[2018.08.07-05.58.07:083][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/fgamemode" FILE="E:/eupro/Cell/Content/Blueprints/fgamemode.uasset" SILENT=true
+[2018.08.07-05.58.07:094][ 69]LogSavePackage: Moving 'E:/eupro/Cell/Saved/fgamemodeF7E8B49D496FA932E837D4A4F6545524.tmp' to 'E:/eupro/Cell/Content/Blueprints/fgamemode.uasset'
+[2018.08.07-05.58.10:256][444]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.58.10:278][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.10:278][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-05.58.10:278][444]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:58:10)
+[2018.08.07-05.58.10:278][444]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.58.10:283][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005279s)
+[2018.08.07-05.58.10:284][444]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.58.10:284][444]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.08.07-05.58.10:284][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005978s)
+[2018.08.07-05.58.10:319][444]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.58.10:328][444]LogInit: FAudioDevice initialized.
+[2018.08.07-05.58.10:355][444]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.58.10:356][444]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.58.10
+[2018.08.07-05.58.10:356][444]LogWorld: Bringing up level for play took: 0.000570
+[2018.08.07-05.58.10:367][444]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间-0.617
+[2018.08.07-05.58.10:368][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.11:658][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.11:659][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.58.11:691][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.58.11:691][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.11:734][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.58.11:766][597]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.08.07-05.58.15:858][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-05.58.18:421][342]LogEditorTransaction: Undo 编辑Default Player Name
+[2018.08.07-05.58.18:867][378]LogEditorTransaction: Undo 编辑Player Controller Class
+[2018.08.07-05.58.19:720][474]LogEditorTransaction: Undo 移动节点
+[2018.08.07-05.58.19:907][490]LogEditorTransaction: Undo 添加节点
+[2018.08.07-05.58.20:885][599]LogEditorTransaction: Undo 移动节点
+[2018.08.07-05.58.25:384][121]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-05.58.26:675][243]LogEditorTransaction: Undo 移动节点
+[2018.08.07-05.58.27:651][350]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-05.58.29:780][591]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-05.58.35:066][193]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-05.58.36:644][353]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-05.58.37:192][417]LogEditorTransaction: Undo 移动节点
+[2018.08.07-05.58.37:804][475]LogEditorTransaction: Undo 添加节点
+[2018.08.07-05.58.40:691][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.58.40:723][772]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn29CB021F45DC6B994805AA9A06063E24.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-05.58.47:380][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/fgamemode" FILE="E:/eupro/Cell/Content/Blueprints/fgamemode.uasset" SILENT=true
+[2018.08.07-05.58.47:389][548]LogSavePackage: Moving 'E:/eupro/Cell/Saved/fgamemodeD6D44FA04439C62DB67534AE9C876B2E.tmp' to 'E:/eupro/Cell/Content/Blueprints/fgamemode.uasset'
+[2018.08.07-05.58.49:553][807]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-05.58.49:572][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.49:572][807]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-05.58.49:578][807]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-05.58.49:725][807]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2018.08.07-05.58.49:725][807]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午9:58:49)
+[2018.08.07-05.58.49:725][807]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-05.58.49:730][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005348s)
+[2018.08.07-05.58.49:731][807]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-05.58.49:731][807]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.08.07-05.58.49:731][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006125s)
+[2018.08.07-05.58.49:768][807]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-05.58.49:779][807]LogInit: FAudioDevice initialized.
+[2018.08.07-05.58.49:808][807]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-05.58.49:808][807]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-13.58.49
+[2018.08.07-05.58.49:809][807]LogWorld: Bringing up level for play took: 0.000583
+[2018.08.07-05.58.49:822][807]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.835
+[2018.08.07-05.58.49:822][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.51:753][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.51:753][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.58.51:781][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-05.58.51:781][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-05.58.51:811][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-05.58.51:857][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.08.07-05.58.55:805][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-05.59.08:956][977]LogEditorTransaction: Undo 编辑Player Controller Class
+[2018.08.07-05.59.09:347][  5]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-05.59.33:138][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-05.59.33:169][675]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwnF24288294811A624E8CC0692AF48EDD9.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.01.12:967][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.01.12:998][ 92]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn13FFAE3542F39ECCC07C509F5F42587D.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.01.15:337][357]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.01.15:355][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.01.15:355][357]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-06.01.15:360][357]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-06.01.15:501][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2018.08.07-06.01.15:502][357]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:01:15)
+[2018.08.07-06.01.15:502][357]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.01.15:507][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005066s)
+[2018.08.07-06.01.15:507][357]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.01.15:507][357]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.08.07-06.01.15:507][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005750s)
+[2018.08.07-06.01.15:543][357]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.01.15:554][357]LogInit: FAudioDevice initialized.
+[2018.08.07-06.01.15:581][357]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.01.15:581][357]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.01.15
+[2018.08.07-06.01.15:581][357]LogWorld: Bringing up level for play took: 0.000539
+[2018.08.07-06.01.15:593][357]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.596
+[2018.08.07-06.01.15:593][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.01.36:026][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.01.36:026][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.01.36:058][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.01.36:058][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.01.36:089][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.01.36:126][807]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.08.07-06.02.38:910][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.02.38:942][799]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn6A500E4141AD161E883C8484D6805237.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.02.45:415][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/playercon" FILE="E:/eupro/Cell/Content/Blueprints/playercon.uasset" SILENT=true
+[2018.08.07-06.02.45:423][531]LogSavePackage: Moving 'E:/eupro/Cell/Saved/playercon8FE9EFBB4306EBEB8AADA7853A7F20D8.tmp' to 'E:/eupro/Cell/Content/Blueprints/playercon.uasset'
+[2018.08.07-06.03.54:515][525]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/LevelBP' took 0.038
+[2018.08.07-06.04.13:776][830]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.04.13:793][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.04.13:793][830]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-06.04.13:799][830]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-06.04.13:939][830]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2018.08.07-06.04.13:940][830]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:04:13)
+[2018.08.07-06.04.13:940][830]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.04.13:945][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005059s)
+[2018.08.07-06.04.13:945][830]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.04.13:945][830]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.08.07-06.04.13:945][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005745s)
+[2018.08.07-06.04.13:978][830]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.04.13:991][830]LogInit: FAudioDevice initialized.
+[2018.08.07-06.04.14:021][830]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.04.14:022][830]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.04.14
+[2018.08.07-06.04.14:022][830]LogWorld: Bringing up level for play took: 0.000582
+[2018.08.07-06.04.14:034][830]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间1.025
+[2018.08.07-06.04.14:034][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.04.48:864][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.04.48:865][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.04.48:893][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.04.48:893][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.04.48:924][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.04.48:969][  1]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.08.07-06.06.09:293][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-06.06.10:823][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-06.06.11:297][537]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.06.11:315][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.06.11:315][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-06.06.11:315][537]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:06:11)
+[2018.08.07-06.06.11:315][537]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.06.11:321][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2018.08.07-06.06.11:321][537]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.06.11:321][537]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.08.07-06.06.11:321][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006055s)
+[2018.08.07-06.06.11:356][537]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.06.11:368][537]LogInit: FAudioDevice initialized.
+[2018.08.07-06.06.11:396][537]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.06.11:397][537]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.06.11
+[2018.08.07-06.06.11:397][537]LogWorld: Bringing up level for play took: 0.000597
+[2018.08.07-06.06.11:409][537]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.391
+[2018.08.07-06.06.11:409][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.06.33:060][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.06.33:060][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.06.33:088][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.06.33:088][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.06.33:118][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.06.33:165][133]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.08.07-06.07.18:282][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-06.08.12:321][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.08.12:374][173]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn72B92C77487D402ED66135A90849BE17.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.08.27:774][184]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.08.27:792][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.08.27:792][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-06.08.27:792][184]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:08:27)
+[2018.08.07-06.08.27:792][184]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.08.27:798][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005559s)
+[2018.08.07-06.08.27:798][184]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.08.27:798][184]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.08.07-06.08.27:798][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006452s)
+[2018.08.07-06.08.27:832][184]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.08.27:843][184]LogInit: FAudioDevice initialized.
+[2018.08.07-06.08.27:869][184]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.08.27:870][184]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.08.27
+[2018.08.07-06.08.27:870][184]LogWorld: Bringing up level for play took: 0.000631
+[2018.08.07-06.08.27:881][184]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.853
+[2018.08.07-06.08.27:881][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.08.38:781][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.08.38:781][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.08.38:810][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.08.38:810][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.08.38:841][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.08.38:887][494]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.08.07-06.12.49:572][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.12.49:608][ 48]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwnB6306D594D4BC8C81E16CAA8AC3523B5.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.13.01:636][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.13.01:667][329]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn5220C1DC41FDFDE4152CA4A46851D084.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.13.03:466][532]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.13.03:484][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.03:484][532]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-06.13.03:490][532]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-06.13.03:636][532]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2018.08.07-06.13.03:636][532]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:13:03)
+[2018.08.07-06.13.03:636][532]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.13.03:641][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005441s)
+[2018.08.07-06.13.03:642][532]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.13.03:642][532]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.08.07-06.13.03:642][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006135s)
+[2018.08.07-06.13.03:676][532]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.13.03:686][532]LogInit: FAudioDevice initialized.
+[2018.08.07-06.13.03:717][532]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.13.03:718][532]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.13.03
+[2018.08.07-06.13.03:719][532]LogWorld: Bringing up level for play took: 0.001298
+[2018.08.07-06.13.03:759][532]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.711
+[2018.08.07-06.13.03:759][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.05:888][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.05:888][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.05:919][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.13.05:919][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.05:952][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.05:989][788]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.08.07-06.13.07:721][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-06.13.07:771][  1]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.13.07:788][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.07:788][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-06.13.07:788][  1]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:13:07)
+[2018.08.07-06.13.07:788][  1]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.13.07:794][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005355s)
+[2018.08.07-06.13.07:794][  1]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.13.07:794][  1]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.08.07-06.13.07:794][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006018s)
+[2018.08.07-06.13.07:830][  1]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.13.07:841][  1]LogInit: FAudioDevice initialized.
+[2018.08.07-06.13.07:870][  1]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.13.07:870][  1]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.13.07
+[2018.08.07-06.13.07:871][  1]LogWorld: Bringing up level for play took: 0.000551
+[2018.08.07-06.13.07:882][  1]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.834
+[2018.08.07-06.13.07:882][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.09:602][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.09:602][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.09:634][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.13.09:634][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.09:665][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.09:702][208]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.08.07-06.13.13:496][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-06.13.13:562][659]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.13.13:580][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.13:580][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-06.13.13:580][659]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:13:13)
+[2018.08.07-06.13.13:580][659]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.13.13:585][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005116s)
+[2018.08.07-06.13.13:586][659]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.13.13:586][659]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.08.07-06.13.13:586][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005810s)
+[2018.08.07-06.13.13:618][659]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.13.13:630][659]LogInit: FAudioDevice initialized.
+[2018.08.07-06.13.13:658][659]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.13.13:658][659]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.13.13
+[2018.08.07-06.13.13:659][659]LogWorld: Bringing up level for play took: 0.000581
+[2018.08.07-06.13.13:672][659]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.624
+[2018.08.07-06.13.13:673][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.19:499][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.19:500][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.19:530][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.13.19:530][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.13.19:561][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.13.19:607][357]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.08.07-06.13.23:201][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-06.15.13:086][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/LevelBP' took 0.044
+[2018.08.07-06.22.37:741][597]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.22.38:024][613]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.39:253][723]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.39:434][733]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.22.39:606][746]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.22.39:779][755]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.22.39:946][771]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.40:148][786]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.22.40:346][801]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.22.40:552][817]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.22.40:752][833]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.22.40:958][846]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.41:161][859]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.22.41:376][876]LogEditorTransaction: Undo 断开引脚连接
+[2018.08.07-06.22.41:573][891]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.22.41:803][910]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.42:019][927]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.42:274][944]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.22.42:556][969]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.42:899][999]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.22.43:115][ 15]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.43:615][ 60]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.43:913][ 84]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.22.44:347][110]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.22.45:333][191]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.45:757][230]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.46:282][280]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.22.46:727][323]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.47:162][361]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.47:528][393]LogEditorTransaction: Undo 移动节点
+[2018.08.07-06.22.47:860][422]LogEditorTransaction: Undo 添加节点
+[2018.08.07-06.25.05:924][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-06.25.35:001][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-06.25.51:226][749]Cmd: TRANSACTION UNDO
+[2018.08.07-06.25.51:226][749]LogEditorTransaction: Undo 修改组件
+[2018.08.07-06.25.51:628][779]Cmd: TRANSACTION UNDO
+[2018.08.07-06.25.51:628][779]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-06.26.02:981][ 29]LogEditorTransaction: Undo 创建引脚连接
+[2018.08.07-06.26.27:919][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pawwn" FILE="E:/eupro/Cell/Content/Blueprints/pawwn.uasset" SILENT=true
+[2018.08.07-06.26.27:967][527]LogSavePackage: Moving 'E:/eupro/Cell/Saved/pawwn45B21B924E39F15E48D3A49C406F6728.tmp' to 'E:/eupro/Cell/Content/Blueprints/pawwn.uasset'
+[2018.08.07-06.26.29:732][719]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.26.29:752][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.26.29:752][719]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-06.26.29:758][719]LogPlayLevel: [PlayLevel] Compiling pawwn before play...
+[2018.08.07-06.26.29:953][719]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (1 blueprints)
+[2018.08.07-06.26.29:953][719]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:26:29)
+[2018.08.07-06.26.29:953][719]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.26.29:959][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005554s)
+[2018.08.07-06.26.29:959][719]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.26.29:959][719]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.08.07-06.26.29:959][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.006218s)
+[2018.08.07-06.26.29:995][719]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.26.30:008][719]LogInit: FAudioDevice initialized.
+[2018.08.07-06.26.30:038][719]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.26.30:039][719]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.26.30
+[2018.08.07-06.26.30:039][719]LogWorld: Bringing up level for play took: 0.000699
+[2018.08.07-06.26.30:051][719]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.946
+[2018.08.07-06.26.30:051][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.26.39:977][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.26.39:977][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.26.40:009][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.26.40:009][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.26.40:042][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.26.40:079][909]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.08.07-06.26.41:833][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-06.26.59:246][100]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/buttons.buttons
+[2018.08.07-06.29.03:783][864]LogTemp: Repeating last play command: 选中的视口
+[2018.08.07-06.29.03:804][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.29.03:804][864]BlueprintLog: New page: 运行前自动重新编译
+[2018.08.07-06.29.03:805][864]LogPlayLevel: [PlayLevel] Compiling buttons before play...
+[2018.08.07-06.29.03:965][864]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2018.08.07-06.29.03:966][864]PIE: New page: PIE会话: LevelBP (2018年8月7日 下午10:29:03)
+[2018.08.07-06.29.03:966][864]LogPlayLevel: Creating play world package: /Game/Blueprints/UEDPIE_0_LevelBP
+[2018.08.07-06.29.03:971][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005106s)
+[2018.08.07-06.29.03:971][864]LogAIModule: Creating AISystem for world LevelBP
+[2018.08.07-06.29.03:971][864]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.08.07-06.29.03:971][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/LevelBP.LevelBP to /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP (0.005777s)
+[2018.08.07-06.29.04:009][864]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-06.29.04:021][864]LogInit: FAudioDevice initialized.
+[2018.08.07-06.29.04:054][864]LogLoad: Game class is 'fgamemode_C'
+[2018.08.07-06.29.04:055][864]LogWorld: Bringing World /Game/Blueprints/UEDPIE_0_LevelBP.LevelBP up for play (max tick rate 0) at 2018.08.07-14.29.04
+[2018.08.07-06.29.04:055][864]LogWorld: Bringing up level for play took: 0.000631
+[2018.08.07-06.29.04:066][864]PIE: /Game/Blueprints/UEDPIE_0_LevelBP的‘在编辑器中播放’的起始时间0.95
+[2018.08.07-06.29.04:066][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.29.06:118][981]Cmd: SELECT NONE
+[2018.08.07-06.29.06:932][ 27]Cmd: SELECT NONE
+[2018.08.07-06.29.09:109][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.29.09:109][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.29.09:138][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-06.29.09:138][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP' with GeneratedClass '/Game/Blueprints/LevelBP.LevelBP_C' with ClassGeneratedBy '/Game/Blueprints/LevelBP.LevelBP:PersistentLevel.LevelBP'
+[2018.08.07-06.29.09:171][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-06.29.09:209][170]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.08.07-06.29.10:665][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/buttons" FILE="E:/eupro/Cell/Content/Blueprints/buttons.uasset" SILENT=true
+[2018.08.07-06.29.10:673][259]LogSavePackage: Moving 'E:/eupro/Cell/Saved/buttonsADB705FB4A157CFF0144879B26A7F662.tmp' to 'E:/eupro/Cell/Content/Blueprints/buttons.uasset'
+[2018.08.07-06.29.14:946][697]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-06.30.15:173][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/LevelBP' took 0.033
+[2018.08.07-06.32.54:523][340]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.849 s
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: 
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 790]
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: 
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: Stack: 
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee7857136 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee7590c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee75ab346 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc381a03 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc3eee3e UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedd5afce9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee3ead8d3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee0ad4515 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc4392b7 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc3d289e UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc39b519 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee3646a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee34593b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee33f1444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc3f6cd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc395a96 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc3273c4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc446248 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc44209e UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fedc40470d UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee33b81ef UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee344ffe2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee34377ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee342abba UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee38dd26f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee38d0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee38df4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee38cc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x0000000077539bbd USER32.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x00000000775398c2 USER32.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000007fee38e0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-06.32.54:523][340]LogOutputDevice: Error: [Callstack] 0x000000013f8854e5 UE4Editor.exe!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x000000013f895b3c UE4Editor.exe!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x000000013f895bba UE4Editor.exe!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x000000013f8a3dac UE4Editor.exe!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x000000013f8a5aaa UE4Editor.exe!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x00000000776359cd kernel32.dll!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: [Callstack] 0x000000007776a561 ntdll.dll!UnknownFunction []
+[2018.08.07-06.32.54:524][340]LogOutputDevice: Error: 
+[2018.08.07-06.32.54:529][340]LogStats:                SubmitErrorReport -  0.000 s
